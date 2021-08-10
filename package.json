@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "sprintf": ">=0.1.1",
-    "mustache": "*",
-    "debug": "*"
+    "mustache": "0.8.2",
+    "debug": "0.8.1"
   },
   "devDependencies": {
     "mocha": ">=1.8.1",
